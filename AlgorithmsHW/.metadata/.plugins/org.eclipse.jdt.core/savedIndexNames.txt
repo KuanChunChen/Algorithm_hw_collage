@@ -1,0 +1,3 @@
+INDEX VERSION 1.130+C:\Users\user\Desktop\eclipse workout\AlgorithmsHW\.metadata\.plugins\org.eclipse.jdt.core
+3384513373.index
+3332728140.index

@@ -1,0 +1,37 @@
+import java.util.Random;
+import java.util.Arrays;
+
+public class HW_102403203_binarysearch {
+
+	private int[] data;
+	private static final Random ArrayNum = new Random();
+	
+	
+	public BinaryArray (int size) {
+		
+		data = new int[size];
+		
+		for(int i=0; i<size ; i++) {
+		    data[i]=10+ArrayNum.nextInt(90);
+						
+		}
+		Arrays.sort(data);
+		
+	}
+	
+ 	public int binarySearch(int searchtarget) {
+ 		
+ 		int low =0;
+ 		int high = data.length-1 ;
+ 		int middle = (low+high);
+ 		int location = -1;
+ 		
+ 		
+ 		
+ 	}
+	
+	
+	
+	
+	
+}
