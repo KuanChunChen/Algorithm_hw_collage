@@ -19,7 +19,8 @@ Mergesort</br>
 
 <img src="https://github.com/KuanChunChen/Algorithm_hw_collage/blob/master/mergesort_1.png" width="30%" height="30%">
 
-如上圖，其中線條長度代表陣列中的各數(愈長代表數字愈大，愈小反之)，在使用mergesort後陣列經過排列，則變成如下圖排列：
+如上圖，其中線條長度代表陣列中的各數(愈長代表數字愈大，愈小反之)，</br>
+在使用mergesort後陣列經過排列，則變成如下圖排列：
 
 <img src="https://github.com/KuanChunChen/Algorithm_hw_collage/blob/master/mergesort_3.png" width="30%" height="30%">
  
