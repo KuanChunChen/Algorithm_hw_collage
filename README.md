@@ -11,4 +11,5 @@ Mergesort
 給定100個亂數產生不重複數的數列，
 並將他使用mergesort重新排序
 並展示成圖形介面
-![image](https://github.com/KuanChunChen/Algorithm_hw_collage/blob/master/mergesort_1.png)
+<img src="https://github.com/KuanChunChen/Algorithm_hw_collage/blob/master/mergesort_1.png" width="50%" height="50%">
+ 
